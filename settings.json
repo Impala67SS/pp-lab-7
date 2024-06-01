@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:/Users/kamil/Desktop/pp-pab-7/.vccode/javafx-sdk-22.0.1/lib/*.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.base.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.controls.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.fxml.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.graphics.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.media.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.swing.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx.web.jar",
+        ".vccode/javafx-sdk-22.0.1/lib/javafx-swt.jar"
+    ]
+}
